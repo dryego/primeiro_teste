@@ -1,2 +1,2 @@
 # primeiro_teste
-primeiro repositorio, teste curdo jacascript
+primeiro repositorio, teste curdo javascript
